@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Adapt-Academy-Frontend-2019-task/static/css/main.80645a2f.chunk.css",
+    "main.js": "/Adapt-Academy-Frontend-2019-task/static/js/main.5fc650aa.chunk.js",
+    "main.js.map": "/Adapt-Academy-Frontend-2019-task/static/js/main.5fc650aa.chunk.js.map",
+    "runtime-main.js": "/Adapt-Academy-Frontend-2019-task/static/js/runtime-main.605e6a30.js",
+    "runtime-main.js.map": "/Adapt-Academy-Frontend-2019-task/static/js/runtime-main.605e6a30.js.map",
+    "static/js/2.b95e9abd.chunk.js": "/Adapt-Academy-Frontend-2019-task/static/js/2.b95e9abd.chunk.js",
+    "static/js/2.b95e9abd.chunk.js.map": "/Adapt-Academy-Frontend-2019-task/static/js/2.b95e9abd.chunk.js.map",
+    "index.html": "/Adapt-Academy-Frontend-2019-task/index.html",
+    "precache-manifest.fe13c020b78574ceb53574be8b2ce661.js": "/Adapt-Academy-Frontend-2019-task/precache-manifest.fe13c020b78574ceb53574be8b2ce661.js",
+    "service-worker.js": "/Adapt-Academy-Frontend-2019-task/service-worker.js",
+    "static/css/main.80645a2f.chunk.css.map": "/Adapt-Academy-Frontend-2019-task/static/css/main.80645a2f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.605e6a30.js",
+    "static/js/2.b95e9abd.chunk.js",
+    "static/css/main.80645a2f.chunk.css",
+    "static/js/main.5fc650aa.chunk.js"
+  ]
+}
